@@ -106,3 +106,74 @@ h3{
     text-align: center;
     padding: 85px
   }
+
+  .remerciements_container_1 {
+      height: 200px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+
+  .remerciements_box_1 {
+    transform: rotate(359deg) skew(-1deg);
+  -webkit-transform: rotate(359deg) skew(-1deg);
+  -moz-transform: rotate(359deg) skew(-1deg);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    width: 1300px;
+    height: 75px;
+    border: 1px solid black;
+    padding-left: 30px
+  }
+
+  .arttagueuliste_box_1 {
+    transform: rotate(359deg) skew(-1deg);
+  -webkit-transform: rotate(359deg) skew(-1deg);
+  -moz-transform: rotate(359deg) skew(-1deg);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    width: 1000px;
+    height: 300px;
+    border: 1px solid black;
+    padding-left: 30px
+  }
+
+  .arttagueuliste_container_1 {
+      height: 200px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding-top: 45px
+  }
+
+
+  .arttagueuliste_container_2 {
+      height: 200px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding-top: 250px
+  }
+
+  .arttagueuliste_box_2 {
+    transform: rotate(359deg) skew(-1deg);
+  -webkit-transform: rotate(359deg) skew(-1deg);
+  -moz-transform: rotate(359deg) skew(-1deg);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    width: 575px;
+    height: 460px;
+    border: 1px solid black;
+    padding-left: 30px
+  }
+
+  .arttagueuliste_iframe_1{
+    padding-top: 35px
+  }
+
+  .espace_blanc{
+    height: 250px
+  }
